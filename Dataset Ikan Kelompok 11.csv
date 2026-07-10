@@ -1,0 +1,501 @@
+Bulan;Nama Penjual;Jenis Ikan;Ukuran;Harga Per Kilo ;Kondisi Stok;Kondisi Pembeli;Cuaca;Kondisi Laut
+Januari;Melianus;Ikan Tuna Sirip Kuning;Kecil;Rp 55.000 - Rp 70.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Lukas;Ikan Ekor Kuning;Kecil;Rp 55.000 - Rp 65.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Lukas;Ikan Tongkol;Kecil;Rp 30.000 - Rp 35.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Melianus;Kakap Merah;Kecil;Rp 70.000 - Rp 85.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Ruth;Ikan Momar;Kecil;35000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Simon;Ikan Tongkol;Kecil;Rp 30.000 - Rp 35.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Ruth;Ikan Tongkol;Kecil;Rp 30.000 - Rp 35.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Stevanus;Ikan Tongkol;Kecil;Rp 30.000 - Rp 35.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Lukas;Ikan Bubara;Kecil;Rp 60.000 - Rp 75.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yakob;Ikan Tuna Sirip Kuning;Kecil;Rp 55.000 - Rp 70.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yakob;Ikan Tongkol;Kecil;Rp 30.000 - Rp 35.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yakob;Ikan Ekor Kuning;Kecil;Rp 55.000 - Rp 65.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Maria;Ikan Oci;Kecil;35000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Lukas;Ikan Momar;Kecil;35000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Maria;Ikan Momar;Kecil;35000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Marthinus;Ikan Lema;Kecil;40000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Agus;Kakap Merah;Kecil;Rp 70.000 - Rp 85.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Ruth;Ikan Kerapu;Kecil;Rp 65.000 - Rp 80.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Frans;Ikan Tuna Sirip Kuning;Kecil;Rp 55.000 - Rp 70.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Melianus;Ikan Tenggiri;Kecil;Rp 80.000 - Rp 90.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Simon;Kakap Merah;Kecil;Rp 70.000 - Rp 85.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Maria;Ikan Ekor Kuning;Kecil;Rp 55.000 - Rp 65.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Ruth;Ikan Kerapu;Kecil;Rp 65.000 - Rp 80.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yakob;Kakap Merah;Sedang;Rp 85.000 - Rp 100.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Ibu Yosina;Ikan Momar;Sedang;45000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Marthinus;Ikan Bubara;Sedang;Rp 70.000 - Rp 85.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Stevanus;Kakap Merah;Sedang;Rp 85.000 - Rp 100.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Pace Niko;Ikan Momar;Sedang;45000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Maria;Ikan Ekor Kuning;Sedang;Rp 65.000 - Rp 80.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Lukas;Ikan Ekor Kuning;Sedang;Rp 65.000 - Rp 80.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Simon;Ikan Tongkol;Sedang;Rp 40.000 - Rp 50.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Agus;Kakap Merah;Sedang;Rp 85.000 - Rp 100.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Melianus;Ikan Tenggiri;Sedang;Rp 90.000 - Rp 100.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yohanis;Kakap Merah;Sedang;Rp 85.000 - Rp 100.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Stevanus;Ikan Bubara;Sedang;Rp 70.000 - Rp 85.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Marthinus;Ikan Kerapu;Sedang;Rp 80.000 - Rp 100.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Pace Markus;Ikan Kerapu;Sedang;Rp 80.000 - Rp 100.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Stevanus;Ikan Oci;Sedang;45000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Maria;Ikan Lema;Sedang;50000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Lukas;Ikan Bubara;Sedang;Rp 70.000 - Rp 85.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Melianus;Ikan Bubara;Sedang;Rp 70.000 - Rp 85.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Simon;Ikan Ekor Kuning;Sedang;Rp 65.000 - Rp 80.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yakob;Ikan Tuna Sirip Kuning;Sedang;Rp 65.000 - Rp 85.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yohanis;Ikan Tongkol;Sedang;Rp 40.000 - Rp 50.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Bapak Dominggus;Ikan Tuna Sirip Kuning;Sedang;Rp 65.000 - Rp 85.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Lukas;Kakap Merah;Sedang;Rp 85.000 - Rp 100.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Melianus;Ikan Tongkol;Sedang;Rp 40.000 - Rp 50.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Maria;Ikan Bubara;Sedang;Rp 70.000 - Rp 85.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Melianus;Ikan Momar;Besar;55000;Sangat Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Agus;Ikan Lema;Besar;60000;Sangat Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Pace Markus;Ikan Lema;Besar;60000;Sangat Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yohanis;Ikan Momar;Besar;55000;Sangat Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Pace Niko;Ikan Lema;Besar;60000;Sangat Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Stevanus;Ikan Kerapu;Besar;Rp 100.000 - Rp 130.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Stevanus;Ikan Bubara;Besar;Rp 85.000 - Rp 110.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yakob;Ikan Momar;Besar;55000;Sangat Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Bapak Dominggus;Ikan Tuna Sirip Kuning;Besar;Rp 80.000 - Rp 110.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Frans;Ikan Momar;Besar;55000;Sangat Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Melianus;Ikan Bubara;Besar;Rp 85.000 - Rp 110.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Ibu Yosina;Ikan Tenggiri;Besar;Rp 100.000 - Rp 120.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Simon;Ikan Oci;Besar;55000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Pace Markus;Ikan Momar;Besar;55000;Sangat Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Stevanus;Ikan Tongkol;Besar;Rp 55.000 - Rp 65.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yakob;Ikan Oci;Besar;55000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Marthinus;Kakap Merah;Besar;Rp 100.000 - Rp 120.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Agus;Ikan Tenggiri;Besar;Rp 100.000 - Rp 120.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Maria;Ikan Tuna Sirip Kuning;Besar;Rp 80.000 - Rp 110.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Pace Markus;Kakap Merah;Besar;Rp 100.000 - Rp 120.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Pace Markus;Ikan Bubara;Besar;Rp 85.000 - Rp 110.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Simon;Ikan Lema;Besar;60000;Sangat Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Mace Maria;Ikan Oci;Besar;55000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yakob;Ikan Oci;Besar;55000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Marthinus;Ikan Lema;Besar;60000;Sangat Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Stevanus;Ikan Tongkol;Besar;Rp 55.000 - Rp 65.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Yakob;Ikan Ekor Kuning;Besar;Rp 75.000 - Rp 95.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Stevanus;Ikan Tuna Sirip Kuning;Besar;Rp 80.000 - Rp 110.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Melianus;Ikan Kerapu;Besar;Rp 100.000 - Rp 130.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Melianus;Ikan Tuna Sirip Kuning;Besar;Rp 80.000 - Rp 110.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Simon;Ikan Momar;Besar;55000;Sangat Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Simon;Ikan Ekor Kuning;Besar;Rp 75.000 - Rp 95.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Pace Niko;Ikan Tuna Sirip Kuning;Besar;Rp 80.000 - Rp 110.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Bapak Dominggus;Ikan Tenggiri;Besar;Rp 100.000 - Rp 120.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Januari;Melianus;Ikan Tenggiri;Besar;Rp 100.000 - Rp 120.000;Sangat Sedikit;Sangat Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Ruth;Ikan Tongkol;Kecil;Rp 25.000 - Rp 30.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Ikan Lema;Kecil;35000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Ikan Oci;Kecil;30000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Ikan Tenggiri;Kecil;Rp 70.000 - Rp 80.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Ibu Yosina;Ikan Bubara;Kecil;Rp 50.000 - Rp 65.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Frans;Ikan Tuna Sirip Kuning;Kecil;45000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yohanis;Ikan Tuna Sirip Kuning;Kecil;45000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Melianus;Ikan Tuna Sirip Kuning;Kecil;45000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Maria;Ikan Bubara;Kecil;Rp 50.000 - Rp 65.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yohanis;Ikan Lema;Kecil;35000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Marthinus;Ikan Kerapu;Kecil;Rp 60.000 - Rp 75.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Niko;Ikan Bubara;Kecil;Rp 50.000 - Rp 65.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Agus;Ikan Kerapu;Kecil;Rp 60.000 - Rp 75.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Maria;Ikan Tongkol;Kecil;Rp 25.000 - Rp 30.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Ikan Momar;Kecil;30000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Simon;Ikan Tongkol;Kecil;Rp 25.000 - Rp 30.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Ibu Yosina;Ikan Tongkol;Kecil;Rp 25.000 - Rp 30.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Maria;Ikan Lema;Kecil;35000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Bapak Dominggus;Ikan Oci;Kecil;30000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Maria;Ikan Tuna Sirip Kuning;Kecil;45000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Frans;Ikan Tongkol;Kecil;Rp 25.000 - Rp 30.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yohanis;Ikan Tongkol;Kecil;Rp 25.000 - Rp 30.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Stevanus;Ikan Ekor Kuning;Kecil;Rp 45.000 - Rp 55.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Ikan Ekor Kuning;Kecil;Rp 45.000 - Rp 55.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Agus;Ikan Momar;Kecil;30000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yakob;Ikan Kerapu;Kecil;Rp 60.000 - Rp 75.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Markus;Ikan Tongkol;Kecil;Rp 25.000 - Rp 30.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yakob;Ikan Tuna Sirip Kuning;Sedang;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Stevanus;Ikan Bubara;Sedang;Rp 65.000 - Rp 75.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Markus;Ikan Tongkol;Sedang;Rp 35.000 - Rp 45.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Bapak Dominggus;Ikan Tuna Sirip Kuning;Sedang;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yakob;Ikan Ekor Kuning;Sedang;Rp 55.000 - Rp 65.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Marthinus;Ikan Lema;Sedang;45000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Frans;Ikan Momar;Sedang;40000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Marthinus;Ikan Tuna Sirip Kuning;Sedang;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yohanis;Ikan Tenggiri;Sedang;Rp 70.000 - Rp 85.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Ibu Yosina;Ikan Tenggiri;Sedang;Rp 70.000 - Rp 85.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Niko;Ikan Ekor Kuning;Sedang;Rp 55.000 - Rp 65.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yohanis;Ikan Momar;Sedang;40000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yakob;Ikan Tongkol;Sedang;Rp 35.000 - Rp 45.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yakob;Ikan Tuna Sirip Kuning;Sedang;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Ruth;Ikan Bubara;Sedang;Rp 65.000 - Rp 75.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Markus;Ikan Bubara;Sedang;Rp 65.000 - Rp 75.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Bapak Dominggus;Ikan Ekor Kuning;Sedang;Rp 55.000 - Rp 65.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Agus;Kakap Merah;Sedang;Rp 75.000 - Rp 85.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Maria;Ikan Lema;Sedang;45000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Frans;Kakap Merah;Sedang;Rp 75.000 - Rp 85.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yakob;Ikan Tuna Sirip Kuning;Sedang;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Stevanus;Ikan Kerapu;Sedang;Rp 75.000 - Rp 90.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Maria;Ikan Kerapu;Sedang;Rp 75.000 - Rp 90.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yakob;Ikan Momar;Sedang;40000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yakob;Ikan Ekor Kuning;Sedang;Rp 55.000 - Rp 65.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Simon;Ikan Lema;Besar;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Ruth;Ikan Lema;Besar;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Frans;Ikan Tongkol;Besar;Rp 50.000 - Rp 60.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yakob;Ikan Tuna Sirip Kuning;Besar;85000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Ikan Tuna Sirip Kuning;Besar;85000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Maria;Ikan Kerapu;Besar;Rp 90.000 - Rp 110.000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Niko;Ikan Momar;Besar;50000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Maria;Kakap Merah;Besar;Rp 85.000 - Rp 95.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Kakap Merah;Besar;Rp 85.000 - Rp 95.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Ruth;Ikan Kerapu;Besar;Rp 90.000 - Rp 110.000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Bapak Dominggus;Ikan Tenggiri;Besar;Rp 78.000 - Rp 90.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Maria;Ikan Ekor Kuning;Besar;Rp 65.000 - Rp 75.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Ikan Momar;Besar;50000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Niko;Ikan Lema;Besar;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Ikan Bubara;Besar;Rp 75.000 - Rp 90.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Marthinus;Ikan Tuna Sirip Kuning;Besar;85000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yakob;Ikan Bubara;Besar;Rp 75.000 - Rp 90.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Ibu Yosina;Ikan Tenggiri;Besar;Rp 78.000 - Rp 90.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Markus;Ikan Tongkol;Besar;Rp 50.000 - Rp 60.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Ibu Yosina;Ikan Kerapu;Besar;Rp 90.000 - Rp 110.000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yohanis;Ikan Kerapu;Besar;Rp 90.000 - Rp 110.000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Markus;Ikan Tuna Sirip Kuning;Besar;85000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Ruth;Ikan Tuna Sirip Kuning;Besar;85000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Bapak Dominggus;Kakap Merah;Besar;Rp 85.000 - Rp 95.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Bapak Dominggus;Ikan Kerapu;Besar;Rp 90.000 - Rp 110.000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Kakap Merah;Besar;Rp 85.000 - Rp 95.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Agus;Ikan Lema;Besar;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Marthinus;Ikan Kerapu;Besar;Rp 90.000 - Rp 110.000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Ikan Tuna Sirip Kuning;Besar;85000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Niko;Ikan Bubara;Besar;Rp 75.000 - Rp 90.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Yohanis;Ikan Tongkol;Besar;Rp 50.000 - Rp 60.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Agus;Ikan Oci;Besar;50000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Stevanus;Ikan Ekor Kuning;Besar;Rp 65.000 - Rp 75.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Markus;Ikan Lema;Besar;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Pace Markus;Ikan Tuna Sirip Kuning;Besar;85000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Lukas;Ikan Tongkol;Besar;Rp 50.000 - Rp 60.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Frans;Ikan Kerapu;Besar;Rp 90.000 - Rp 110.000;Sedikit;sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Stevanus;Ikan Bubara;Besar;Rp 75.000 - Rp 90.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Maria;Kakap Merah;Besar;Rp 85.000 - Rp 95.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Februari;Mace Ruth;Kakap Merah;Besar;Rp 85.000 - Rp 95.000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Tinggi
+Maret;Pace Markus;Ikan Tongkol;Kecil;Rp 20.000 - Rp 25.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Pace Niko;Ikan Tongkol;Kecil;Rp 20.000 - Rp 25.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Stevanus;Ikan Ekor Kuning;Kecil;45000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Ibu Yosina;Ikan Momar;Kecil;35000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Marthinus;Ikan Tuna Sirip Kuning;Kecil;45000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Agus;Ikan Tongkol;Kecil;Rp 20.000 - Rp 25.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Ibu Yosina;Ikan Tenggiri;Kecil;65000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Marthinus;Ikan Tuna Sirip Kuning;Kecil;45000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Ibu Yosina;Ikan Tuna Sirip Kuning;Kecil;45000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Yakob;Kakap Merah;Kecil;60000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Melianus;Ikan Bubara;Kecil;65000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Mace Ruth;Ikan Bubara;Kecil;65000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Bapak Dominggus;Ikan Tenggiri;Kecil;65000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Bapak Dominggus;Ikan Kerapu;Kecil;70000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Stevanus;Ikan Oci;Kecil;30000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Mace Maria;Ikan Bubara;Kecil;65000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Marthinus;Ikan Tongkol;Sedang;Rp 30.000 - Rp 40.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Bapak Dominggus;Ikan Tongkol;Sedang;Rp 30.000 - Rp 40.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Agus;Ikan Ekor Kuning;Sedang;55000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Mace Maria;Ikan Tongkol;Sedang;Rp 30.000 - Rp 40.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Marthinus;Ikan Tenggiri;Sedang;75000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Bapak Dominggus;Kakap Merah;Sedang;70000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Frans;Ikan Tenggiri;Sedang;75000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Frans;Ikan Oci;Sedang;35000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Agus;Kakap Merah;Sedang;70000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Ibu Yosina;Kakap Merah;Sedang;70000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Lukas;Kakap Merah;Sedang;70000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Lukas;Ikan Bubara;Sedang;75000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Ibu Yosina;Ikan Bubara;Sedang;75000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Yakob;Ikan Oci;Sedang;35000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Agus;Ikan Ekor Kuning;Sedang;55000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Mace Maria;Ikan Oci;Sedang;35000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Pace Markus;Ikan Oci;Sedang;35000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Bapak Dominggus;Kakap Merah;Sedang;70000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Pace Markus;Ikan Tongkol;Sedang;Rp 30.000 - Rp 40.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Mace Ruth;Ikan Oci;Sedang;35000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Frans;Ikan Lema;Sedang;45000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Stevanus;Ikan Ekor Kuning;Sedang;55000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Lukas;Ikan Momar;Sedang;40000;Sedang;Ramai;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Marthinus;Ikan Tenggiri;Besar;85000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Bapak Dominggus;Ikan Momar;Besar;45000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Simon;Ikan Tongkol;Besar;Rp 45.000 - Rp 55.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Pace Markus;Ikan Tuna Sirip Kuning;Besar;70000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Yohanis;Ikan Lema;Besar;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Frans;Kakap Merah;Besar;85000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Pace Niko;Ikan Lema;Besar;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Stevanus;Ikan Tenggiri;Besar;85000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Pace Niko;Ikan Tongkol;Besar;Rp 45.000 - Rp 55.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Frans;Kakap Merah;Besar;85000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Melianus;Ikan Ekor Kuning;Besar;70000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Mace Maria;Ikan Tuna Sirip Kuning;Besar;70000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Mace Ruth;Ikan Momar;Besar;45000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Yakob;Ikan Lema;Besar;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Yakob;Ikan Oci;Besar;45000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Mace Maria;Ikan Bubara;Besar;85000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Agus;Ikan Tongkol;Besar;Rp 45.000 - Rp 55.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Melianus;Ikan Tongkol;Besar;Rp 45.000 - Rp 55.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Lukas;Ikan Momar;Besar;45000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Pace Niko;Ikan Tuna Sirip Kuning;Besar;70000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Bapak Dominggus;Ikan Ekor Kuning;Besar;70000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Yakob;Kakap Merah;Besar;85000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Pace Markus;Kakap Merah;Besar;85000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Stevanus;Ikan Tongkol;Besar;Rp 45.000 - Rp 55.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Melianus;Ikan Bubara;Besar;85000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Stevanus;Ikan Bubara;Besar;85000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Yakob;Ikan Bubara;Besar;85000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Melianus;Ikan Bubara;Besar;85000;Sedikit;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Melianus;Ikan Tuna Sirip Kuning;Besar;70000;Sedikit;Sepi;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Melianus;Ikan Lema;Besar;55000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Mace Ruth;Ikan Tongkol;Besar;Rp 45.000 - Rp 55.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Yohanis;Ikan Tongkol;Besar;Rp 45.000 - Rp 55.000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+Maret;Melianus;Ikan Momar;Besar;45000;Sedang;Sedang;Hujan lebat dan angin kencang;Gelombang Rendah
+April;Melianus;Ikan Momar;Kecil;35000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Marthinus;Ikan Momar;Kecil;35000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Lukas;Ikan Tenggiri;Kecil;60000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Frans;Ikan Kerapu;Kecil;55000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Mace Maria;Ikan Momar;Kecil;35000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Yohanis;Ikan Momar;Kecil;35000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Simon;Ikan Tongkol;Kecil;35000;Banyak;Ramai;Cerah Berawan;Laut Tenang
+April;Pace Niko;Ikan Bubara;Kecil;65000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Yohanis;Ikan Tuna Sirip Kuning;Kecil;55000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Yakob;Ikan Tuna Sirip Kuning;Kecil;55000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Yohanis;Ikan Oci;Kecil;25000;Banyak;Ramai;Cerah Berawan;Laut Tenang
+April;Pace Markus;Ikan Lema;Kecil;30000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Stevanus;Ikan Bubara;Kecil;65000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Yakob;Ikan Oci;Kecil;25000;Banyak;Ramai;Cerah Berawan;Laut Tenang
+April;Yakob;Ikan Momar;Kecil;35000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Yohanis;Ikan Lema;Kecil;30000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Stevanus;Ikan Ekor Kuning;Kecil;40000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Melianus;Ikan Kerapu;Kecil;55000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Ibu Yosina;Ikan Tongkol;Kecil;35000;Banyak;Ramai;Cerah Berawan;Laut Tenang
+April;Marthinus;Ikan Ekor Kuning;Kecil;40000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Agus;Ikan Tenggiri;Kecil;60000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Marthinus;Ikan Tenggiri;Kecil;60000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Pace Niko;Ikan Oci;Kecil;25000;Banyak;Ramai;Cerah Berawan;Laut Tenang
+April;Pace Niko;Ikan Kerapu;Sedang;65000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Ibu Yosina;Ikan Momar;Sedang;40000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Marthinus;Kakap Merah;Sedang;75000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Pace Niko;Ikan Momar;Sedang;40000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Bapak Dominggus;Ikan Ekor Kuning;Sedang;50000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Mace Ruth;Ikan Momar;Sedang;40000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Marthinus;Ikan Tenggiri;Sedang;70000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Stevanus;Kakap Merah;Sedang;75000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Ibu Yosina;Ikan Oci;Sedang;35000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Bapak Dominggus;Ikan Tuna Sirip Kuning;Sedang;70000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Pace Niko;Ikan Tuna Sirip Kuning;Sedang;70000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Simon;Ikan Tenggiri;Sedang;70000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Yohanis;Ikan Tuna Sirip Kuning;Sedang;70000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Melianus;Ikan Tuna Sirip Kuning;Sedang;70000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Pace Niko;Ikan Oci;Sedang;35000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Pace Niko;Ikan Bubara;Sedang;80000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Bapak Dominggus;Ikan Momar;Sedang;40000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Stevanus;Ikan Tuna Sirip Kuning;Sedang;70000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Bapak Dominggus;Ikan Oci;Sedang;35000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Stevanus;Ikan Tuna Sirip Kuning;Sedang;70000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Simon;Ikan Momar;Sedang;40000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Frans;Ikan Lema;Sedang;35000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Mace Maria;Ikan Tongkol;Sedang;45000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Melianus;Ikan Ekor Kuning;Sedang;50000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Mace Ruth;Ikan Oci;Sedang;35000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Yohanis;Ikan Momar;Sedang;40000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Lukas;Ikan Momar;Sedang;40000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Melianus;Kakap Merah;Sedang;75000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Pace Markus;Ikan Bubara;Sedang;80000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Simon;Ikan Tenggiri;Sedang;70000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Melianus;Ikan Oci;Sedang;35000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Frans;Kakap Merah;Sedang;75000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Marthinus;Ikan Tenggiri;Sedang;70000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Melianus;Ikan Tenggiri;Sedang;70000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Yakob;Ikan Ekor Kuning;Sedang;50000;Sedang;Ramai;Cerah Berawan;Laut Tenang
+April;Stevanus;Kakap Merah;Besar;90000;Sedikit;Sepi;Cerah Berawan;Laut Tenang
+April;Agus;Ikan Oci;Besar;45000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Yakob;Ikan Kerapu;Besar;80000;Sedikit;Sedang;Cerah Berawan;Laut Tenang
+April;Mace Ruth;Ikan Lema;Besar;45000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Yakob;Ikan Lema;Besar;45000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Mace Maria;Ikan Bubara;Besar;95000;Sedikit;Sedang;Cerah Berawan;Laut Tenang
+April;Mace Maria;Ikan Ekor Kuning;Besar;60000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Bapak Dominggus;Ikan Ekor Kuning;Besar;60000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Melianus;Ikan Kerapu;Besar;80000;Sedikit;Sedang;Cerah Berawan;Laut Tenang
+April;Stevanus;Ikan Ekor Kuning;Besar;60000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Pace Niko;Kakap Merah;Besar;90000;Sedikit;Sepi;Cerah Berawan;Laut Tenang
+April;Bapak Dominggus;Ikan Ekor Kuning;Besar;60000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Mace Ruth;Ikan Bubara;Besar;95000;Sedikit;Sedang;Cerah Berawan;Laut Tenang
+April;Frans;Ikan Bubara;Besar;95000;Sedikit;Sedang;Cerah Berawan;Laut Tenang
+April;Pace Markus;Ikan Tongkol;Besar;55000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Stevanus;Ikan Bubara;Besar;95000;Sedikit;Sedang;Cerah Berawan;Laut Tenang
+April;Marthinus;Kakap Merah;Besar;90000;Sedikit;Sepi;Cerah Berawan;Laut Tenang
+April;Pace Niko;Ikan Lema;Besar;45000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Lukas;Ikan Oci;Besar;45000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Yakob;Ikan Bubara;Besar;95000;Sedikit;Sedang;Cerah Berawan;Laut Tenang
+April;Melianus;Kakap Merah;Besar;90000;Sedikit;Sepi;Cerah Berawan;Laut Tenang
+April;Pace Niko;Ikan Bubara;Besar;95000;Sedikit;Sedang;Cerah Berawan;Laut Tenang
+April;Pace Niko;Ikan Tuna Sirip Kuning;Besar;80000;Sedikit;sepi;Cerah Berawan;Laut Tenang
+April;Frans;Ikan Bubara;Besar;95000;Sedikit;Sedang;Cerah Berawan;Laut Tenang
+April;Bapak Dominggus;Ikan Kerapu;Besar;80000;Sedikit;Sedang;Cerah Berawan;Laut Tenang
+April;Stevanus;Ikan Bubara;Besar;95000;Sedikit;Sedang;Cerah Berawan;Laut Tenang
+April;Frans;Ikan Tuna Sirip Kuning;Besar;80000;Sedikit;sepi;Cerah Berawan;Laut Tenang
+April;Yakob;Ikan Tongkol;Besar;55000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Melianus;Ikan Oci;Besar;45000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Stevanus;Ikan Ekor Kuning;Besar;60000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Stevanus;Ikan Oci;Besar;45000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Pace Niko;Kakap Merah;Besar;90000;Sedikit;Sepi;Cerah Berawan;Laut Tenang
+April;Mace Maria;Ikan Ekor Kuning;Besar;60000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Bapak Dominggus;Kakap Merah;Besar;90000;Sedikit;Sepi;Cerah Berawan;Laut Tenang
+April;Pace Niko;Ikan Momar;Besar;50000;Sedang;Sedang;Cerah Berawan;Laut Tenang
+April;Agus;Ikan Tuna Sirip Kuning;Besar;80000;Sedikit;sepi;Cerah Berawan;Laut Tenang
+Mei;Mace Maria;Ikan Tenggiri;Kecil;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Ibu Yosina;Ikan Tenggiri;Kecil;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Melianus;Ikan Ekor Kuning;Kecil;40000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Stevanus;Ikan Kerapu;Kecil;45000 - 50000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Marthinus;Ikan Lema;Kecil;25000 - 30000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Marthinus;Ikan Kerapu;Kecil;45000 - 50000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Ruth;Ikan Tuna Sirip Kuning;Kecil;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Lukas;Ikan Ekor Kuning;Kecil;40000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Ibu Yosina;Ikan Kakap Merah;Kecil;450000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Melianus;Ikan Kakap Merah;Kecil;450000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Markus;Ikan Tenggiri;Kecil;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Simon;Ikan Tenggiri;Kecil;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Niko;Ikan Tenggiri;Kecil;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Niko;Ikan Oci;Kecil;25000 - 30000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Bapak Dominggus;Ikan Lema;Kecil;25000 - 30000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Maria;Ikan Ekor Kuning;Kecil;40000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Maria;Ikan Tuna Sirip Kuning;Kecil;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Marthinus;Ikan Kerapu;Kecil;45000 - 50000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Maria;Ikan Oci;Kecil;25000 - 30000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Yohanis;Ikan Ekor Kuning;Kecil;40000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Maria;Ikan Bubara;Kecil;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Ruth;Ikan Tenggiri;Kecil;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Marthinus;Ikan Tuna Sirip Kuning;Kecil;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Yakob;Ikan Ekor Kuning;Kecil;40000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Frans;Ikan Oci;Kecil;25000 - 30000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Ibu Yosina;Ikan Bubara;Kecil;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Simon;Ikan Ekor Kuning;Kecil;40000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Yakob;Ikan Tenggiri;Kecil;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Yohanis;Ikan Kakap Merah;Sedang;450000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Simon;Ikan Tenggiri;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Marthinus;Ikan Tenggiri;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Ruth;Ikan Momar;Sedang;25000 - 30000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Frans;Ikan Oci;Sedang;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Stevanus;Ikan Tenggiri;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Frans;Ikan Kerapu;Sedang;55000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Yakob;Ikan Tuna Sirip Kuning;Sedang;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Niko;Ikan Momar;Sedang;25000 - 30000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Simon;Ikan Bubara;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Ibu Yosina;Ikan Kerapu;Sedang;55000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Stevanus;Ikan Tenggiri;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Bapak Dominggus;Ikan Bubara;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Ibu Yosina;Ikan Lema;Sedang;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Maria;Ikan Tenggiri;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Melianus;Ikan Oci;Sedang;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Simon;Ikan Bubara;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Markus;Ikan Bubara;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Agus;Ikan Bubara;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Simon;Ikan Bubara;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Yohanis;Ikan Kerapu;Sedang;55000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Stevanus;Ikan Tuna Sirip Kuning;Sedang;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Ibu Yosina;Ikan Ekor Kuning;Sedang;50000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Lukas;Ikan Kerapu;Sedang;55000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Markus;Ikan Lema;Sedang;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Yakob;Ikan Kakap Merah;Sedang;450000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Ruth;Ikan Bubara;Sedang;50000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Lukas;Ikan Lema;Sedang;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Yohanis;Ikan Momar;Besar;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Agus;Ikan Tenggiri;Besar;65000 - 70000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Ibu Yosina;Ikan Tenggiri;Besar;65000 - 70000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Melianus;Ikan Bubara;Besar;65000 - 75000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Ibu Yosina;Ikan Kakap Merah;Besar;700000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Ibu Yosina;Ikan Momar;Besar;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Yakob;Ikan Tenggiri;Besar;65000 - 70000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Melianus;Ikan Bubara;Besar;65000 - 75000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Maria;Ikan Bubara;Besar;65000 - 75000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Frans;Ikan Oci;Besar;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Simon;Ikan Ekor Kuning;Besar;55000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Simon;Ikan Kakap Merah;Besar;700000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Markus;Ikan Tuna Sirip Kuning;Besar;45000 - 55000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Niko;Ikan Oci;Besar;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Ibu Yosina;Ikan Oci;Besar;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Ruth;Ikan Bubara;Besar;65000 - 75000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Lukas;Ikan Tuna Sirip Kuning;Besar;45000 - 55000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Melianus;Ikan Bubara;Besar;65000 - 75000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Lukas;Ikan Oci;Besar;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Bapak Dominggus;Ikan Momar;Besar;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Simon;Ikan Oci;Besar;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Melianus;Ikan Momar;Besar;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Ruth;Ikan Tuna Sirip Kuning;Besar;45000 - 55000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Markus;Ikan Tuna Sirip Kuning;Besar;45000 - 55000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Ruth;Ikan Oci;Besar;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Niko;Ikan Bubara;Besar;65000 - 75000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Bapak Dominggus;Ikan Ekor Kuning;Besar;55000 - 60000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Melianus;Ikan Bubara;Besar;65000 - 75000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Frans;Ikan Tuna Sirip Kuning;Besar;45000 - 55000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Markus;Ikan Tuna Sirip Kuning;Besar;45000 - 55000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Simon;Ikan Kerapu;Besar;65000 - 75000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Mace Ruth;Ikan Oci;Besar;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Marthinus;Ikan Lema;Besar;40000 - 45000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Mei;Pace Niko;Ikan Momar;Besar;30000 - 35000;Sedang;Sedang;Hujan Ringan;Gelombang Sedang
+Juni;Melianus;Ikan Bubara;Kecil;30000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Yakob;Ikan Tenggiri;Kecil;60000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Simon;Ikan Oci;Kecil;20000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Ibu Yosina;Ikan Oci;Kecil;20000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Ibu Yosina;Ikan Ekor Kuning;Kecil;35000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Niko;Ikan Ekor Kuning;Kecil;35000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Melianus;Ikan Momar;Kecil;13000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Ibu Yosina;Ikan Momar;Kecil;13000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Melianus;Ikan Momar;Kecil;13000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Agus;Ikan Momar;Kecil;13000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Stevanus;Ikan kakap Merah;Kecil;45000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Yohanis;Ikan kakap Merah;Kecil;45000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Frans;Ikan Ekor Kuning;Kecil;35000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Mace Ruth;Ikan Momar;Kecil;13000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Mace Maria;Ikan kakap Merah;Kecil;45000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Mace Maria;Ikan Lema;Kecil;20000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Melianus;Ikan Oci;Kecil;20000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Yohanis;Ikan Kerapu;Kecil;40000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Frans;Ikan kakap Merah;Kecil;45000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Lukas;Ikan Momar;Kecil;13000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Niko;Ikan Ekor Kuning;Kecil;35000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Mace Maria;Ikan Bubara;Kecil;30000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Niko;Ikan Momar;Kecil;13000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Lukas;Ikan Oci;Kecil;20000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Frans;Ikan Bubara;Kecil;30000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Yohanis;Ikan Tenggiri;Kecil;60000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Frans;Ikan Ekor Kuning;Sedang;50000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Ibu Yosina;Ikan Tenggiri;Sedang;85000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Markus;Ikan Momar;Sedang;25000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Marthinus;Ikan Kerapu;Sedang;60000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Bapak Dominggus;Ikan Lema;Sedang;40000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Markus;Ikan Oci;Sedang;35000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Melianus;Ikan Kerapu;Sedang;60000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Niko;Ikan Bubara;Sedang;40000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Melianus;Ikan Ekor Kuning;Sedang;50000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Marthinus;Ikan Oci;Sedang;35000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Lukas;Ikan Momar;Sedang;25000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Agus;Ikan Ekor Kuning;Sedang;50000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Frans;Ikan Momar;Sedang;25000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Melianus;Ikan Ekor Kuning;Sedang;50000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Stevanus;Ikan Oci;Sedang;35000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Bapak Dominggus;Ikan Momar;Sedang;25000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Marthinus;Ikan Tenggiri;Sedang;85000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Yakob;Ikan Tenggiri;Sedang;85000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Markus;Ikan Momar;Sedang;25000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Melianus;Ikan Bubara;Sedang;40000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Bapak Dominggus;Ikan Momar;Sedang;25000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Simon;Ikan Kerapu;Sedang;60000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Markus;Ikan Ekor Kuning;Sedang;50000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Agus;Ikan Kerapu;Sedang;60000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Melianus;Ikan Tenggiri;Sedang;85000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Bapak Dominggus;Ikan Ekor Kuning;Sedang;50000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Melianus;Ikan Momar;Sedang;25000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Yakob;Ikan Momar;Sedang;25000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Markus;Ikan kakap Merah;Besar;60000;Sedikit;Sedang ; Sedikit Extrem;Gelombang Tinggi
+Juni;Mace Ruth;Ikan Momar;Besar;40000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Yohanis;Ikan Momar;Besar;40000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Yohanis;Ikan Kerapu;Besar;90000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Stevanus;Ikan Oci;Besar;50000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Markus;Ikan Lema;Besar;50000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Markus;Ikan Tenggiri;Besar;90000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Marthinus;Ikan Ekor Kuning;Besar;100000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Niko;Ikan Ekor Kuning;Besar;100000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Simon;Ikan Ekor Kuning;Besar;100000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Stevanus;Ikan kakap Merah;Besar;60000;Sedikit;Sedang ; Sedikit Extrem;Gelombang Tinggi
+Juni;Yohanis;Ikan Lema;Besar;50000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Pace Markus;Ikan Kerapu;Besar;90000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Stevanus;Ikan Lema;Besar;50000;Sedikit;Sedang; Sedikit Extrem;Gelombang Tinggi
+Juni;Simon;Ikan Momar;Besar;40000;Sedang;Sedang; Sedikit Extrem;Gelombang Tinggi
